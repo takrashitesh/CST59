@@ -5,7 +5,11 @@ public class Car {
 	float weight;
 	
 	public static void main(String[] args) {
-		System.out.println("Car class invoke");
+		Car car = new Car();
+		System.out.println(car.price=100);
+		System.out.println(car.weight=65.25f);
+		
+		
 		
 	}
 }

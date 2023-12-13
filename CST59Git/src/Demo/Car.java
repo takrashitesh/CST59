@@ -8,6 +8,5 @@ public class Car {
 		Car car = new Car();
 		System.out.println(car.price=100);
 		System.out.println("hitesh takras");
-		
 	}
 }
